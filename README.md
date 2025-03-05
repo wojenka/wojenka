@@ -7,7 +7,7 @@
 - ୨୧ web/desktop/mobile dev (feeling most comfortable with desktop and web)
 - ୨୧ contact: wojenka@proton.me
 
-<img src="https://files.catbox.moe/6nkmbg.webp" width="300px"><img src="https://files.catbox.moe/6nkmbg.webp" width="300px"><img src="https://files.catbox.moe/6nkmbg.webp" width="300px">
+<img src="https://files.catbox.moe/6nkmbg.webp" width="300px"><img src="https://files.catbox.moe/6nkmbg.webp" width="300px">
 
 ## currently working on:
 - device menagment system
