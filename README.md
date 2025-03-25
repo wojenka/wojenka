@@ -1,11 +1,15 @@
 <div align="center"> <img src="https://files.catbox.moe/4ku2ok.png" width="800px"></div>
 
+<div align="center"> 	
+	
 ### 2006 PL | beginner programmer | [linktree](https://linktr.ee/wojenka) 
 
 - ୨୧ girl into coding and osint 
 - ୨୧ studying programming at school
 - ୨୧ web/desktop/mobile app dev (i prefer desktop and web)
 - ୨୧ contact: wojenka@proton.me
+
+</div>
 <div align="center"> 
 <img src="https://files.catbox.moe/6nkmbg.webp" width="260px"><img src="https://files.catbox.moe/6nkmbg.webp" width="260px"><img src="https://files.catbox.moe/6nkmbg.webp" width="260px">
 
