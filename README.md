@@ -1,4 +1,4 @@
-# wojenka
+<div align="center"> <img src="https://files.catbox.moe/4ku2ok.png" width="800px"></div>
 
 ### 2006 PL | beginner programmer | [linktree](https://linktr.ee/wojenka) 
 
@@ -36,12 +36,7 @@
 	<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code>
 </div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=wojenka&theme=transparent&hide_border=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wojenka&layout=compact&langs_count=8&card_width=320&theme=transparent&hide_border=true&size_weight=0.5&count_weight=0.5" />
-</a>
+
 
 
 
