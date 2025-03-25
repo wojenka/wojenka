@@ -13,6 +13,12 @@
 - ୨୧ web/desktop/mobile app dev (i prefer desktop and web)
 - ୨୧ contact: wojenka@proton.me
 
+<br/>
+<a href="https://moon-svg.minung.dev">
+  <img src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="moon.svg" />
+</a><img src="https://count.getloli.com/@Moe-counter.github?name=wojenka.github&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
+
+
 </div>
 
 <br/>
