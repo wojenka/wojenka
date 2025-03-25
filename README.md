@@ -36,5 +36,10 @@
   <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=wojenka&theme=transparent&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wojenka&layout=compact&langs_count=8&card_width=320&theme=transparent&hide_border=true" />
+  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wojenka&layout=compact&langs_count=8&card_width=320&theme=transparent&hide_border=true&size_weight=0.5&count_weight=0.5" />
 </a>
+
+![discord badge](https://dcbadge.limes.pink/api/shield/1205588159723741234)
+
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ap2ododjddxsijshxn1z916gx&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=ap2ododjddxsijshxn1z916gx&redirect=true)
