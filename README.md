@@ -4,15 +4,14 @@
 
 - ୨୧ girl into coding and osint 
 - ୨୧ studying programming at school
-- ୨୧ web/desktop/mobile dev (feeling most comfortable with desktop and web)
+- ୨୧ web/desktop/mobile app dev (feeling most comfortable with desktop and web)
 - ୨୧ contact: wojenka@proton.me
 
 <img src="https://files.catbox.moe/6nkmbg.webp" width="300px"><img src="https://files.catbox.moe/6nkmbg.webp" width="300px">
 
 ## currently working on:
-- device menagment system
+- device and licence menagment system
 
-## oher stuff i'm working on:
-
-- my [tumblr blog](wojenka.tumblr.com)
-- my personal old web website (not releasted yet)
+## oher minor projects:
+- portfolio
+- dst character mods
