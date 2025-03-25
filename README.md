@@ -6,7 +6,6 @@
 - ୨୧ studying programming at school
 - ୨୧ web/desktop/mobile app dev (i prefer desktop and web)
 - ୨୧ contact: wojenka@proton.me
-- ୨୧ i don't have all of my code here so stats aren't very accurate :((
 <div align="center"> 
 <img src="https://files.catbox.moe/6nkmbg.webp" width="260px"><img src="https://files.catbox.moe/6nkmbg.webp" width="260px"><img src="https://files.catbox.moe/6nkmbg.webp" width="260px">
 
