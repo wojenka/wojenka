@@ -21,7 +21,7 @@
 
 
 <div align="center"> 
-<img src="https://files.catbox.moe/6nkmbg.webp" width="260px"><img src="https://files.catbox.moe/6nkmbg.webp" width="260px"><img src="https://files.catbox.moe/6nkmbg.webp" width="260px">
+
 
  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ap2ododjddxsijshxn1z916gx&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=ap2ododjddxsijshxn1z916gx&redirect=true)
 
