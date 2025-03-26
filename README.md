@@ -59,7 +59,3 @@
 
 
 
-![my cinematic taste](https://letterboxd-badge.vercel.app/wojenka)
-
-
-
