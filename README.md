@@ -3,10 +3,14 @@
 
 ---
 
+<a href="https://moon-svg.minung.dev">
+  <img src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="moon.svg" align="right" style="width:15%;"/>
+</a>
 
 <div align="center"> 	
 	
 ### 2006 PL | beginner programmer ᶻ 𝗓 𐰁 | [linktree](https://linktr.ee/wojenka) 
+
 
 <pre>
 
@@ -17,14 +21,7 @@
 
 </pre>
 <br/>
-<a href="https://moon-svg.minung.dev">
-  <img src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="moon.svg" />
-</a>
-
-
 </div>
-
-<br/>
 
 ---
 
