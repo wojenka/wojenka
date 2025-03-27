@@ -23,7 +23,7 @@
 
 ---
 
-
+<p align="center"></p><details align="center"><summary align="center"></summary>
 <div align="center"> 
 
 
@@ -54,6 +54,6 @@
 	<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
 	<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code>
 </div>
-
+</details>
 
 
