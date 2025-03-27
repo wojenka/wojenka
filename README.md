@@ -6,13 +6,16 @@
 
 <div align="center"> 	
 	
-### 2006 PL | beginner programmer | [linktree](https://linktr.ee/wojenka) 
+### 2006 PL | beginner programmer ᶻ 𝗓 𐰁 | [linktree](https://linktr.ee/wojenka) 
 
-- ୨୧ girl into coding and osint 
-- ୨୧ studying programming at school
-- ୨୧ web/desktop/mobile app dev (i prefer desktop and web)
-- ୨୧ contact: wojenka@proton.me
+<pre>
 
+ ୨୧ web/desktop/mobile apps | favs: C++, Java, Python, PHP ୨୧
+ ୨୧ studying programming at school | music, games, drawing, coding ୨୧
+ ୨୧ i <3 tanks and dinos | porcelain doll colector ୨୧
+︶︶︶︶︶︶ ୨♰୧ ︶︶︶︶︶︶
+
+</pre>
 <br/>
 <a href="https://moon-svg.minung.dev">
   <img src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="moon.svg" />
