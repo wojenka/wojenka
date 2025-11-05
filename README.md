@@ -9,7 +9,7 @@
 
 <div align="center"> 	
 	
-### 2006 PL | beginner programmer ᶻ 𝗓 𐰁 | [my stack](https://linktr.ee/wojenka](https://stackshare.io/wojenka/my-stack)) 
+### 2006 PL | beginner programmer ᶻ 𝗓 𐰁 | [my stack](https://stackshare.io/wojenka/my-stack)) 
 
 
 <pre>
