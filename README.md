@@ -13,7 +13,7 @@
 
 
 <pre>
- ୨୧ web/desktop/mobile apps | favs: C++, Java, Python, PHP ୨୧
+ ୨୧ web/desktop/mobile apps | favs: C++, Java, Python, React+Vite ୨୧
  ୨୧ studying programming at school | music, games, drawing, coding ୨୧
  ୨୧ i <3 tanks and dinos | porcelain doll colector ୨୧
 ︶︶︶︶︶︶ ୨♰୧ ︶︶︶︶︶︶
