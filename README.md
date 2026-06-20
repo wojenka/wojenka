@@ -1,4 +1,3 @@
-<div align="center"> <img src="https://files.catbox.moe/4ku2ok.png" width="800px"></div>
 
 
 ---
